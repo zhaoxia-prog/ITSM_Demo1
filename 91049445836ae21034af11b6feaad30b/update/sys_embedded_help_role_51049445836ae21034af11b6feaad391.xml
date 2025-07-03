@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1755581_itsm_d_0.admin" name="x_1755581_itsm_d_0.admin">d9049445836ae21034af11b6feaad38d</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-03 07:28:21</sys_created_on>
+        <sys_id>51049445836ae21034af11b6feaad391</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d9049445836ae21034af11b6feaad38d</sys_name>
+        <sys_package display_value="ITSM_Demo1" source="x_1755581_itsm_d_0">91049445836ae21034af11b6feaad30b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM_Demo1">91049445836ae21034af11b6feaad30b</sys_scope>
+        <sys_update_name>sys_embedded_help_role_51049445836ae21034af11b6feaad391</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-03 07:28:21</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
