@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Incident Request">07849485836ae21034af11b6feaad39e</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-03 07:32:19</sys_created_on>
+        <sys_id>2fe49c85836ae21034af11b6feaad37e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Incident Request</sys_name>
+        <sys_package display_value="ITSM_Demo1" source="x_1755581_itsm_d_0">91049445836ae21034af11b6feaad30b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM_Demo1">91049445836ae21034af11b6feaad30b</sys_scope>
+        <sys_update_name>sc_cat_item_category_2fe49c85836ae21034af11b6feaad37e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-03 07:32:19</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
