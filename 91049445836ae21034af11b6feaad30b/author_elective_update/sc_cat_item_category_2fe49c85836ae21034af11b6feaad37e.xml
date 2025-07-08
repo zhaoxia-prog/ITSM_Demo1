@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Incident Request">07849485836ae21034af11b6feaad39e</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-03 07:32:19</sys_created_on>
+        <sys_id>2fe49c85836ae21034af11b6feaad37e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Incident Request</sys_name>
+        <sys_package display_value="ITSM_Demo1" source="x_1755581_itsm_d_0">91049445836ae21034af11b6feaad30b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM_Demo1">91049445836ae21034af11b6feaad30b</sys_scope>
+        <sys_update_name>sc_cat_item_category_2fe49c85836ae21034af11b6feaad37e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-03 07:32:19</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM_Incident">91049445836ae21034af11b6feaad30b</application>
+        <file_path/>
+        <instance_id>03b9a1c8fb99a2181feef633beefdcfe</instance_id>
+        <instance_name>dev339253</instance_name>
+        <name>sc_cat_item_category_2fe49c85836ae21034af11b6feaad37e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Incident Request">07849485836ae21034af11b6feaad39e</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-03 07:32:19</sys_created_on><sys_id>2fe49c85836ae21034af11b6feaad37e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Incident Request</sys_name><sys_package display_value="ITSM_Demo1" source="x_1755581_itsm_d_0">91049445836ae21034af11b6feaad30b</sys_package><sys_policy/><sys_scope display_value="ITSM_Demo1">91049445836ae21034af11b6feaad30b</sys_scope><sys_update_name>sc_cat_item_category_2fe49c85836ae21034af11b6feaad37e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-03 07:32:19</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>865890244</payload_hash>
+        <record_name>Can We Help You?.Incident Request</record_name>
+        <reverted_from/>
+        <source>98749845836ae21034af11b6feaad3d7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-03 07:32:19</sys_created_on>
+        <sys_id>efe49c85836ae21034af11b6feaad382</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197cf335e9f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-03 07:32:19</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>e3e49c85a76ae2109992fa71bd393482</update_guid>
+        <update_guid_history>e3e49c85a76ae2109992fa71bd393482:865890244</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Incident Request">8c9819da8322aa1034af11b6feaad3f7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-07 09:40:13</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>25ba9574b30a44eca77d3e9276069024</sys_id>
+        <sys_metadata>2fe49c85836ae21034af11b6feaad37e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Incident Request</sys_name>
+        <sys_package display_value="ITSM_Incident" source="x_1755581_itsm_d_0">91049445836ae21034af11b6feaad30b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM_Incident">91049445836ae21034af11b6feaad30b</sys_scope>
+        <sys_scope_delete display_value="">1875a199dcdc44b785844ecf02702189</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_2fe49c85836ae21034af11b6feaad37e</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_2fe49c85836ae21034af11b6feaad37e">efe49c85836ae21034af11b6feaad382</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-07 09:40:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

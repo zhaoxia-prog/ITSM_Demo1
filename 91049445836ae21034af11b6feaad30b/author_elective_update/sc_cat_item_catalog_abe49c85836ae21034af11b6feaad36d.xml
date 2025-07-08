@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Incident Request">07849485836ae21034af11b6feaad39e</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-03 07:32:19</sys_created_on>
+        <sys_id>abe49c85836ae21034af11b6feaad36d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Incident Request</sys_name>
+        <sys_package display_value="ITSM_Demo1" source="x_1755581_itsm_d_0">91049445836ae21034af11b6feaad30b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM_Demo1">91049445836ae21034af11b6feaad30b</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_abe49c85836ae21034af11b6feaad36d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-03 07:32:19</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM_Incident">91049445836ae21034af11b6feaad30b</application>
+        <file_path/>
+        <instance_id>03b9a1c8fb99a2181feef633beefdcfe</instance_id>
+        <instance_name>dev339253</instance_name>
+        <name>sc_cat_item_catalog_abe49c85836ae21034af11b6feaad36d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Incident Request">07849485836ae21034af11b6feaad39e</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-03 07:32:19</sys_created_on><sys_id>abe49c85836ae21034af11b6feaad36d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Incident Request</sys_name><sys_package display_value="ITSM_Demo1" source="x_1755581_itsm_d_0">91049445836ae21034af11b6feaad30b</sys_package><sys_policy/><sys_scope display_value="ITSM_Demo1">91049445836ae21034af11b6feaad30b</sys_scope><sys_update_name>sc_cat_item_catalog_abe49c85836ae21034af11b6feaad36d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-03 07:32:19</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1698754898</payload_hash>
+        <record_name>Service Catalog.Incident Request</record_name>
+        <reverted_from/>
+        <source>98749845836ae21034af11b6feaad3d7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-03 07:32:19</sys_created_on>
+        <sys_id>e3e49c85836ae21034af11b6feaad37e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197cf335e620000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-03 07:32:19</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>e7e49c855e6ae2108ec16d76a433927d</update_guid>
+        <update_guid_history>e7e49c855e6ae2108ec16d76a433927d:-1698754898</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Incident Request">0c9895da8322aa1034af11b6feaad372</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-07 09:40:13</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>1b64f1bbfb9142c688b08af88e36d3a4</sys_id>
+        <sys_metadata>abe49c85836ae21034af11b6feaad36d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Incident Request</sys_name>
+        <sys_package display_value="ITSM_Incident" source="x_1755581_itsm_d_0">91049445836ae21034af11b6feaad30b</sys_package>
+        <sys_parent display_value="">07849485836ae21034af11b6feaad39e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ITSM_Incident">91049445836ae21034af11b6feaad30b</sys_scope>
+        <sys_scope_delete display_value="">1875a199dcdc44b785844ecf02702189</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_abe49c85836ae21034af11b6feaad36d</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_abe49c85836ae21034af11b6feaad36d">e3e49c85836ae21034af11b6feaad37e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-07 09:40:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
