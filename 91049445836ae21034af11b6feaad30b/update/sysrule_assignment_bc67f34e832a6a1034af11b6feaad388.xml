@@ -22,17 +22,17 @@
 * current.release.product.service.assigned_to;&#13;
 */&#13;
 &#13;
-if (current.category == "hardware")&#13;
-   current.assignment_group.setDisplayValue("ITSM_Hardware"); &#13;
- else if (current.category == "software")&#13;
-   current.assignment_group.setDisplayValue("ITSM_Software");</script>
+if (current.category == "Business Apps and Tools")&#13;
+   current.assignment_group.setDisplayValue("ITSM_L1_Business_Apps_Service_Desk"); &#13;
+ else if (current.category == "Workplace Management")&#13;
+   current.assignment_group.setDisplayValue("ITSM_L1_Workplace_Service_Desk");</script>
         <sys_class_name>sysrule_assignment</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-07-07 02:46:45</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>bc67f34e832a6a1034af11b6feaad388</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Assign to support group base on category</sys_name>
         <sys_overrides/>
         <sys_package display_value="ITSM_Incident" source="x_1755581_itsm_d_0">91049445836ae21034af11b6feaad30b</sys_package>
@@ -40,7 +40,7 @@ if (current.category == "hardware")&#13;
         <sys_scope display_value="ITSM_Incident">91049445836ae21034af11b6feaad30b</sys_scope>
         <sys_update_name>sysrule_assignment_bc67f34e832a6a1034af11b6feaad388</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-07-08 02:53:28</sys_updated_on>
+        <sys_updated_on>2025-07-11 05:48:07</sys_updated_on>
         <table>incident</table>
         <user/>
     </sysrule_assignment>
